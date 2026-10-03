@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "nuremberg",
+  "locale": "en",
+  "layout": "wide",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.en.svg",
+  "sha256": "d1beb6f3fa235caa7e2e11d863513c5e5bd2ab548a0222ec3423a42354823e70",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
